@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **yahia.hisham65@gmail.com**
 
-- 📄 Know about my experiences [CV](https://t.ly/cgqh)
+- 📄 Know about my experiences [Yahia Hisham - CV](https://t.ly/cgqh)
 
 - ⚡ Fun fact **I love parachuting**
 
