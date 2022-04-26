@@ -7,14 +7,13 @@
 
 - 📫 How to reach me **yahia.hisham65@gmail.com**
 
-- 📄 Know about my experiences [https://t.ly/cgqh]
-- (https://t.ly/cgqh)
+- 📄 Know about my experiences [https://t.ly/cgqh](https://drive.google.com/drive/folders/1U4RT6Bw-bD7L6p6_uk-dbWtkP6UOIxL-?usp=sharing)
 
 - ⚡ Fun fact **I love parachuting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yahia-hisham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yahia-hisham/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/yahia-hisham/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yahia-hisham/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yahiaelaydy&show_icons=true&locale=en" alt="yahiaelaydy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yahiaelaydy&" alt="yahiaelaydy" /></p>
+
