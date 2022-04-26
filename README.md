@@ -8,7 +8,7 @@
 - 📫 How to reach me **yahia.hisham65@gmail.com**
 
 - 📄 Know about my experiences [https://t.ly/cgqh]
-- (https://drive.google.com/drive/folders/1U4RT6Bw-bD7L6p6_uk-dbWtkP6UOIxL-?usp=sharing)
+- (https://t.ly/cgqh)
 
 - ⚡ Fun fact **I love parachuting**
 
